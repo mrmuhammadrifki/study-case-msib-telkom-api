@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk mengembangkan backend yang mendukung aplikasi asisten
 
 1. **Clone** repositori ini ke dalam lokal mesin Anda:
     ```bash
-    git clone <URL_REPOSITORY>
+    git clone https://github.com/mrmuhammadrifki/study-case-msib-telkom-indonesia-api.git
     ```
 2. **Install** semua dependensi PHP menggunakan Composer:
     ```bash
