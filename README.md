@@ -45,6 +45,20 @@ Proyek ini bertujuan untuk mengembangkan backend yang mendukung aplikasi asisten
 -   **API untuk Percakapan**: Implementasi API yang menyimpan dan mengambil data percakapan, memastikan persistensi data.
 -   **Unit Testing**: Unit testing dilakukan untuk memastikan bahwa respons API sesuai dengan format yang diharapkan.
 
+## Screenshots
+
+<p align="center">
+  <img src="images/1.png">
+</p>
+
+<p align="center">
+  <img src="images/2.png">
+</p>
+
+<p align="center">
+  <img src="images/3.png">
+</p>
+
 ---
 
 Dokumentasi ini dirancang untuk memberikan petunjuk yang jelas dan detail tentang bagaimana menjalankan dan menguji proyek "Virtual Assistant Chat API" dengan konfigurasi yang optimal dan sesuai standar.
